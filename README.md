@@ -1,6 +1,7 @@
 # Sequelize - Modelos y consultas basicas
 
-<h3>Ejercitación de DIGITAL HOUSE donde trabajamos con el ORM de Sequelize para poder trabajar con la base de datos de movies.</h3>
+<h3>Ejercitación de DIGITAL HOUSE donde utilizamos Sequelize para poder conectar un proyecto de NodeJS con Express a una base de datos y trabajar con la misma.</h3>
+
 
 <h2>Imagenes previas del desafio<h2>
 
